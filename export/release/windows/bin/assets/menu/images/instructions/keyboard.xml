@@ -1,5 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<TextureAtlas imagePath="keyboard.png">
-<SubTexture name="idle0000" x="0" y="0" width="1141" height="766" frameX="-2" frameY="-3" frameWidth="1146" frameHeight="771" />
-<SubTexture name="idle0001" x="1141" y="0" width="1142" height="766" frameX="-1" frameY="-3" frameWidth="1146" frameHeight="771" />
-</TextureAtlas>

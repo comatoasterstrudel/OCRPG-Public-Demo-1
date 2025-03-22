@@ -1,6 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<TextureAtlas imagePath="credSprite_coma.png">
-<SubTexture name="idle0000" x="751" y="0" width="759" height="952" frameX="-272" frameY="-328" frameWidth="1280" frameHeight="1280" />
-<SubTexture name="idle0001" x="1510" y="0" width="760" height="952" frameX="-278" frameY="-328" frameWidth="1280" frameHeight="1280" />
-<SubTexture name="idle0002" x="0" y="0" width="751" height="960" frameX="-284" frameY="-320" frameWidth="1280" frameHeight="1280" />
-</TextureAtlas>

@@ -1,6 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<TextureAtlas imagePath="credSprite_doodslr.png">
-<SubTexture name="idle0000" x="0" y="0" width="705" height="1238" frameX="-325" frameY="-42" frameWidth="1280" frameHeight="1280" />
-<SubTexture name="idle0001" x="705" y="0" width="694" height="1238" frameX="-333" frameY="-42" frameWidth="1280" frameHeight="1280" />
-<SubTexture name="idle0002" x="1399" y="0" width="695" height="1238" frameX="-331" frameY="-42" frameWidth="1280" frameHeight="1280" />
-</TextureAtlas>

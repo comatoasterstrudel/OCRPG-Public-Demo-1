@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<TextureAtlas imagePath="opponent_gameshow.png">
-<SubTexture name="idle0000" x="1453" y="0" width="672" height="888" frameX="-238" frameY="-138" frameWidth="1036" frameHeight="1087" />
-<SubTexture name="idle0001" x="0" y="1042" width="719" height="884" frameX="-242" frameY="-140" frameWidth="1036" frameHeight="1087" />
-<SubTexture name="hurt0000" x="0" y="0" width="485" height="1042" frameX="-264" frameY="-12" frameWidth="1036" frameHeight="1087" />
-<SubTexture name="hurt0001" x="485" y="0" width="484" height="1006" frameX="-267" frameY="-49" frameWidth="1036" frameHeight="1087" />
-<SubTexture name="dead0000" x="969" y="0" width="484" height="1006" frameX="-267" frameY="-49" frameWidth="1036" frameHeight="1087" />
-</TextureAtlas>

@@ -1,6 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<TextureAtlas imagePath="back.png">
-<SubTexture name="select0000" x="0" y="0" width="733" height="715" frameX="-29" frameY="-14" frameWidth="768" frameHeight="768" />
-<SubTexture name="select0001" x="733" y="0" width="747" height="714" frameX="-16" frameY="-5" frameWidth="768" frameHeight="768" />
-<SubTexture name="nonselect0000" x="0" y="0" width="733" height="715" frameX="-29" frameY="-14" frameWidth="768" frameHeight="768" />
-</TextureAtlas>

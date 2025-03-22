@@ -1,7 +1,0 @@
-googly:80:slimefall:googly:.9:Glorp:Glorp Glorp:Defensive Glorp:Healing Glorp:center:.5:enemy:use:6FDDFF:
-coma:130:hearter:coma:.13:Hardened Bash:Moral Support:Purple Aura:Rally:center:.5:boss:use:FFC5EF:
-gameshow:90:hearter:comagameshow:.34:Hardened Bash:Moral Support:Purple Aura:Rally:center:.5:boss:use:FFC5EF:
-tutorial:100:slimefall:tutorial:1:::::center:.5:enemy:dont:6FDDFF:
-inner:60:cave:inner:.45:Leech:Heart Stab:Bomb Stall:Skull Split:bottom:.5:boss:use:CDCDCD:
-innerpuppet:300:cave:innerscary:.4:nun:nun:nun:nun:bottom:.5:boss:use:CDCDCD:
-war:150:war:war:.6:Glorp:Glorp Glorp:Defensive Glorp:Healing Glorp:center:.5:enemy:use:6FDDFF:

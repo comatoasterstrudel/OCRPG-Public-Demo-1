@@ -1,6 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<TextureAtlas imagePath="credSprite_kyzroen.png">
-<SubTexture name="idle0000" x="584" y="0" width="578" height="1026" frameX="-380" frameY="-254" frameWidth="1280" frameHeight="1280" />
-<SubTexture name="idle0001" x="1162" y="0" width="583" height="1023" frameX="-377" frameY="-257" frameWidth="1280" frameHeight="1280" />
-<SubTexture name="idle0002" x="0" y="0" width="584" height="1029" frameX="-379" frameY="-251" frameWidth="1280" frameHeight="1280" />
-</TextureAtlas>

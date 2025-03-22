@@ -1,6 +1,0 @@
-You see those 2 characters near the bottom?:0.03:Ctrnf:Ctrnf:ctrnf_huh:
-Thats your party.:0.03:Ctrnf:Ctrnf:ctrnf_explain:
-Pretty much the dudes you control.:0.03:Ctrnf:Ctrnf:ctrnf_neutral:
-You see that beanbag lookin' fella in the middle?:0.03:Ctrnf:Ctrnf:ctrnf_huh:
-Thats who you're fighting.:0.03:Ctrnf:Ctrnf:ctrnf_explain:
-At the bottom are the moves you can do. Use {UP} and {DOWN} to scroll through the list and press {ACCEPT} to confirm, go ahead and pick one!:0.03:Ctrnf:Ctrnf:ctrnf_happy:

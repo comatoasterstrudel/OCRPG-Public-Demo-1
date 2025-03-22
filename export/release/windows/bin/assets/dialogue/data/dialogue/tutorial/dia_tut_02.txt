@@ -1,7 +1,0 @@
-You see how you used your move?:0.03:Ctrnf:Ctrnf:ctrnf_explain:
-Then after that the enemy used their move as well.:0.03:Ctrnf:Ctrnf:ctrnf_neutral:
-When someone uses a move its indicated by the banners on the side or top of the screen.:0.03:Ctrnf:Ctrnf:ctrnf_explain:
-By the way, when there is a black spinning arrow above your character, that indicates which character you are controlling on that turn!:0.02:Ctrnf:Ctrnf:ctrnf_neutral:
-Also, did you see that bar that popped up before you used your move?:0.03:Ctrnf:Ctrnf:ctrnf_huh:
-Pressing {ACCEPT} makes the line stop, and depending on how close you got to the middle, the more effective your move is!:.03:Ctrnf:Ctrnf:ctrnf_neutral:
-So try and aim for the middle! Anyways, do it again!:0.03:Ctrnf:Ctrnf:ctrnf_happy:

@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<TextureAtlas imagePath="opponent_tutorial.png">
-<SubTexture name="idle0000" x="797" y="858" width="797" height="537" frameX="-55" frameY="-352" frameWidth="900" frameHeight="1200" />
-<SubTexture name="idle0001" x="0" y="858" width="797" height="584" frameX="-55" frameY="-296" frameWidth="900" frameHeight="1200" />
-<SubTexture name="hurt0000" x="0" y="0" width="800" height="858" frameX="-50" frameY="-31" frameWidth="900" frameHeight="1200" />
-<SubTexture name="hurt0001" x="1600" y="0" width="801" height="826" frameX="-51" frameY="-63" frameWidth="900" frameHeight="1200" />
-<SubTexture name="dead0000" x="800" y="0" width="800" height="857" frameX="-50" frameY="-31" frameWidth="900" frameHeight="1200" />
-</TextureAtlas>

@@ -1,6 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<TextureAtlas imagePath="portrait_paragon.png">
-<SubTexture name="idle0000" x="0" y="0" width="914" height="1080" frameX="-180" frameY="-200" frameWidth="1280" frameHeight="1280" />
-<SubTexture name="hurt0000" x="914" y="0" width="970" height="1031" frameX="-168" frameY="-249" frameWidth="1280" frameHeight="1280" />
-<SubTexture name="dead0000" x="1884" y="0" width="970" height="1031" frameX="-168" frameY="-249" frameWidth="1280" frameHeight="1280" />
-</TextureAtlas>

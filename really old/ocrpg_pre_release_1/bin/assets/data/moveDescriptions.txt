@@ -1,9 +1,0 @@
-Hardened Bash:Attacks enemy for medium damage. Increases allies defense.
-Moral Support:Heals allies hp with the power of moral support.
-Purple Aura:Covers the area in a dark purple mist. Makes the next attack do increased damage.
-Rally:If an ally is dead, revive them. Otherwise heal Coma. After this move, skip Comas next turn.
-Spin:Vertically spins at the enemy, quickly bonking off for big damage.
-Briefcase:Throws out a briefcase that reduces damage taken on the next turn.
-Disappearing Act:The enemy wont focus on 0uter for a turn.
-Greater Good:Makes enemy target 0uter, but deals significantly less damage, stuns 0uter after use.
-default:A basic attack. Deals minimal damage.
