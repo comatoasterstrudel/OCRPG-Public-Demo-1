@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="innerbarsprite.png">
+<SubTexture name="00000" x="0" y="0" width="212" height="346" frameX="-4" frameY="0" frameWidth="219" frameHeight="346" />
+<SubTexture name="10000" x="212" y="0" width="212" height="346" frameX="-4" frameY="0" frameWidth="219" frameHeight="346" />
+<SubTexture name="20000" x="424" y="0" width="212" height="346" frameX="-4" frameY="0" frameWidth="219" frameHeight="346" />
+<SubTexture name="30000" x="636" y="0" width="212" height="346" frameX="-4" frameY="0" frameWidth="219" frameHeight="346" />
+</TextureAtlas>

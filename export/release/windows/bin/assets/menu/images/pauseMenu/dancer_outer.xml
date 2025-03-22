@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="dancer_outer.png">
+<SubTexture name="idle0000" x="0" y="0" width="717" height="1012" frameX="-262" frameY="-12" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="idle0001" x="717" y="0" width="713" height="1012" frameX="-250" frameY="-12" frameWidth="1280" frameHeight="1280" />
+</TextureAtlas>

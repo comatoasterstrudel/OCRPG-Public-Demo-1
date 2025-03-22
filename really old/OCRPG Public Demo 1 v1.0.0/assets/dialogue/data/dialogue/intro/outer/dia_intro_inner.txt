@@ -1,0 +1,5 @@
+...:0.6:Default:Outer:outer_scared:
+I hate this.:0.03:Outer:Outer:outer_scared:
+I HATE THIS.:0.01:Outer:Outer:outer_yell:
+I GOTTA GET OUT OF HERE.:0.01:Outer:Outer:outer_yell:
+GET ME OUT OF HERE.:0.005:Outer:Outer:outer_yell:

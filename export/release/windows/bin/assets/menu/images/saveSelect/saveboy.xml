@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="saveboy.png">
+<SubTexture name="idle_00000" x="2810" y="0" width="883" height="1033" frameX="-245" frameY="-247" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="idle_00001" x="1114" y="1119" width="863" height="1035" frameX="-282" frameY="-245" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="idle_10000" x="3693" y="1888" width="710" height="899" frameX="-333" frameY="-381" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="idle_10001" x="3693" y="969" width="719" height="919" frameX="-326" frameY="-361" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="idle_30000" x="3693" y="0" width="795" height="969" frameX="-276" frameY="-311" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="idle_30001" x="3037" y="3211" width="758" height="891" frameX="-280" frameY="-389" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="idle_40000" x="2133" y="2186" width="714" height="969" frameX="-370" frameY="-311" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="idle_40001" x="2810" y="1033" width="715" height="981" frameX="-370" frameY="-299" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="talk_00000" x="0" y="0" width="854" height="1119" frameX="-226" frameY="-161" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="talk_00001" x="854" y="0" width="848" height="1117" frameX="-227" frameY="-163" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="talk_10000" x="4488" y="0" width="1129" height="666" frameX="-55" frameY="-614" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="talk_10001" x="4488" y="666" width="1085" height="659" frameX="-113" frameY="-621" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="talk_20000" x="1702" y="0" width="1108" height="1075" frameX="-48" frameY="-205" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="talk_20001" x="0" y="1119" width="1114" height="1067" frameX="-46" frameY="-211" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="talk_30000" x="1946" y="3211" width="1091" height="910" frameX="-159" frameY="-370" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="talk_30001" x="842" y="3211" width="1104" height="917" frameX="-154" frameY="-363" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="talk_40000" x="2847" y="2186" width="714" height="969" frameX="-370" frameY="-311" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="talk_40001" x="1977" y="1119" width="715" height="981" frameX="-370" frameY="-299" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="destroy0000" x="0" y="3211" width="842" height="949" frameX="-51" frameY="-178" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="idle_20000" x="1063" y="2186" width="1070" height="1009" frameX="-53" frameY="-271" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="idle_20001" x="0" y="2186" width="1063" height="1025" frameX="-57" frameY="-255" frameWidth="1280" frameHeight="1280" />
+</TextureAtlas>

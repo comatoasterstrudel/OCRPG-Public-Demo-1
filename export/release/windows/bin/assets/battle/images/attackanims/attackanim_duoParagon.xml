@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="attackanim_duoParagon.png">
+<SubTexture name="idle0000" x="3000" y="0" width="1023" height="862" frameX="-225" frameY="-77" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="idle0001" x="1022" y="1185" width="1027" height="1053" frameX="-237" frameY="-43" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="idle0002" x="2005" y="0" width="995" height="1173" frameX="-268" frameY="-6" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="idle0003" x="0" y="1185" width="1022" height="1173" frameX="-258" frameY="-13" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="idle0004" x="0" y="0" width="937" height="1185" frameX="-260" frameY="-3" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="idle0005" x="937" y="0" width="1068" height="1176" frameX="-183" frameY="-75" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="idle0006" x="2049" y="1185" width="735" height="959" frameX="-187" frameY="-252" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="idle0007" x="0" y="2358" width="679" height="847" frameX="-115" frameY="-363" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="idle0008" x="3000" y="862" width="792" height="856" frameX="-80" frameY="-343" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="idle0009" x="679" y="2358" width="797" height="645" frameX="-74" frameY="-317" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="idle0010" x="3000" y="1718" width="758" height="437" frameX="-104" frameY="-538" frameWidth="1280" frameHeight="1280" />
+</TextureAtlas>

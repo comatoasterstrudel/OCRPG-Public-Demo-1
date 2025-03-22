@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="turnIndicator.png">
+<SubTexture name="idle0000" x="407" y="0" width="368" height="342" frameX="-472" frameY="-497" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="idle0001" x="368" y="353" width="260" height="322" frameX="-521" frameY="-509" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="idle0002" x="775" y="322" width="153" height="310" frameX="-586" frameY="-522" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="idle0003" x="628" y="353" width="115" height="296" frameX="-601" frameY="-535" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="idle0004" x="928" y="322" width="85" height="283" frameX="-624" frameY="-552" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="idle0005" x="268" y="695" width="76" height="275" frameX="-622" frameY="-551" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="idle0006" x="153" y="695" width="115" height="296" frameX="-594" frameY="-528" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="idle0007" x="0" y="695" width="153" height="310" frameX="-579" frameY="-515" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="idle0008" x="775" y="0" width="260" height="322" frameX="-535" frameY="-510" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="idle0009" x="0" y="353" width="368" height="342" frameX="-484" frameY="-490" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="idle0010" x="0" y="0" width="407" height="353" frameX="-470" frameY="-486" frameWidth="1280" frameHeight="1280" />
+</TextureAtlas>

@@ -1,0 +1,2 @@
+outer:120:Spin:Briefcase:Disappearing Act:Greater Good:
+coma:200:Hardened Bash:Moral Support:Purple Aura:Rally

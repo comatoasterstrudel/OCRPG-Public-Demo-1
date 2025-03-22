@@ -1,0 +1,9 @@
+You seem to be getting the hang of this quick!:0.03:Ctrnf:Ctrnf:ctrnf_happy:
+Also, I should mention.:0.03:Ctrnf:Ctrnf:ctrnf_explain:
+Your allies health are shown on the bars underneath them.:0.03:Ctrnf:Ctrnf:ctrnf_neutral:
+If one of their health drops to 0, they die and they cant be used in battle until revived.:0.03:Ctrnf:Ctrnf:ctrnf_explain:
+Allies get revived automatically after 4 turns, but some moves can revive them too!:0.03:Ctrnf:Ctrnf:ctrnf_happy:
+If both of your allies die, its game over.:0.03:Ctrnf:Ctrnf:ctrnf_neutral:
+The enemys health is indicated by the bar near the top.:0.03:Ctrnf:Ctrnf:ctrnf_explain:
+If their health drops to 0, you win.:0.03:Ctrnf:Ctrnf:ctrnf_happy:
+Anyway, keep at it!:0.03:Ctrnf:Ctrnf:ctrnf_happy:

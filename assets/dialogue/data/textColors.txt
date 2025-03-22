@@ -1,0 +1,12 @@
+Default:FFFFFF:
+Saveboy:DBDBDB:
+Coma:FFC5EF:
+Ctrnf:6B2D5F:
+Outer:FD4613:
+Luigi:70FF80:
+Basilisk:55729E:
+Domino:A3C917:
+Nilrok:A3C917:
+Nix:CC7ECA:
+Shroud:89BBCA:
+

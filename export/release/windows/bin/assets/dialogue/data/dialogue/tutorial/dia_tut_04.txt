@@ -1,0 +1,6 @@
+You see that bar near the bottom?:0.03:Ctrnf:Ctrnf:ctrnf_explain:
+Usually, you would need to fill it by taking and dealing damage, but for the purpose of demonstration im going to fill it for you.:0.03:Ctrnf:Ctrnf:ctrnf_explain:
+When its full, it grants you the ability to use a duo attack by pressing {EXTRAONE}.:0.03:Ctrnf:Ctrnf:ctrnf_neutral:
+I should note, you can only use a duo attack when both allies alive.:0.03:Ctrnf:Ctrnf:ctrnf_explain:
+You can see that the duo attack is ready by the indicator to the left of the moves.:0.03:Ctrnf:Ctrnf:ctrnf_neutral:
+Give it a try!:0.03:Ctrnf:Ctrnf:ctrnf_happy:

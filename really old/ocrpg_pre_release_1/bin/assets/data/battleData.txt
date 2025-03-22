@@ -1,0 +1,2 @@
+googly:100:slimefall:ba_googly:.9:Glorp:Glorp Glorp:Defensive Glorp:Healing Glorp:
+coma:200:coma:ba_coma:.4:Hardened Bash:Moral Support:Purple Aura:Rally:

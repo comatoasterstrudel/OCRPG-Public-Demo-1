@@ -1,0 +1,17 @@
+Hardened Bash:Attacks enemy for medium damage. Increases allies defense.:use:
+Moral Support:Heals allies hp with the power of moral support.:use:
+Purple Aura:Covers the area in a dark purple mist. Makes the next attack do increased damage.:use:
+Rally:If an ally is dead, revive them. Otherwise heal Coma. After this move, skip Comas next turn.:use:
+Spin:Vertically spins at the enemy, quickly bonking off for big damage.:use:
+Briefcase:Throws out a briefcase that reduces damage taken on the next turn and increases 0uters defense.:use:
+Disappearing Act:The enemy wont focus on 0uter for a turn and heals 0uter a bit.:use:
+Greater Good:Deals copius amounts of damage which scales to 0uters hp, and then kills 0uter instantly..Woopsie!:use:
+Nano-Modify:Ally defense buff, and Enemy defense debuff. (Nix):use:
+Trained Focus:Chance to ignore the next 3 moves (Shroud):use:
+Basilisk Venom:Everytime you use this attack, the power increases. (Basilisk):use:
+Nilrok Shock:Very weak damage, and stuns enemy. (Domino & Nilrok):use:
+Pizza Wheel:Deals damage to the enemy three times with huge spinning pizzas.:use:
+Bad Pizza:Debuff to enemy defense.:use:
+Unscrew:A very small chance to instantly defeat the enemy.:dont:
+Prize Ball:Gives a random positive, or negative effect.:dont:
+default:A basic attack. Deals minimal damage.:dont:

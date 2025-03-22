@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="attackanim_pizzawheel.png">
+<SubTexture name="idle0000" x="1246" y="1060" width="1215" height="984" frameX="-18" frameY="-115" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="idle0001" x="0" y="1060" width="1246" height="1013" frameX="-19" frameY="-159" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="idle0002" x="1256" y="0" width="1235" height="1042" frameX="-41" frameY="-110" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="idle0003" x="0" y="0" width="1256" height="1060" frameX="-24" frameY="-165" frameWidth="1280" frameHeight="1280" />
+</TextureAtlas>

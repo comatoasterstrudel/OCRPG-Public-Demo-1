@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="portrait_outer.png">
+<SubTexture name="idle0000" x="2234" y="0" width="1168" height="1231" frameX="-112" frameY="-49" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="hurt0000" x="0" y="0" width="1117" height="1278" frameX="-13" frameY="-2" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="dead0000" x="1117" y="0" width="1117" height="1278" frameX="-13" frameY="-2" frameWidth="1280" frameHeight="1280" />
+</TextureAtlas>

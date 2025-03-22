@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="opponent_coma.png">
+<SubTexture name="idle0000" x="1510" y="0" width="491" height="836" frameX="-306" frameY="-63" frameWidth="1094" frameHeight="919" />
+<SubTexture name="idle0001" x="0" y="871" width="454" height="819" frameX="-340" frameY="-65" frameWidth="1094" frameHeight="919" />
+<SubTexture name="hurt0000" x="0" y="0" width="755" height="871" frameX="-246" frameY="-15" frameWidth="1094" frameHeight="919" />
+<SubTexture name="hurt0001" x="454" y="871" width="832" height="788" frameX="-233" frameY="-98" frameWidth="1094" frameHeight="919" />
+<SubTexture name="dead0000" x="755" y="0" width="755" height="871" frameX="-246" frameY="-15" frameWidth="1094" frameHeight="919" />
+</TextureAtlas>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="comabomberletsgo.png">
+<SubTexture name="normal0000" x="0" y="0" width="958" height="1087" frameX="-155" frameY="0" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="normal0001" x="792" y="2173" width="968" height="1081" frameX="-155" frameY="-6" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="normal0002" x="1093" y="3256" width="846" height="1070" frameX="-155" frameY="-17" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="normal0003" x="4474" y="3174" width="911" height="1040" frameX="-155" frameY="-47" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="normal0004" x="2928" y="3256" width="740" height="1065" frameX="-155" frameY="-22" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="normal0005" x="1738" y="1087" width="740" height="1084" frameX="-155" frameY="-3" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="normal0006" x="979" y="1087" width="759" height="1085" frameX="-155" frameY="-2" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="normal0007" x="2624" y="1083" width="740" height="1077" frameX="-155" frameY="-10" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="normal0008" x="1795" y="0" width="829" height="1086" frameX="-155" frameY="-1" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="normal0009" x="958" y="0" width="837" height="1087" frameX="-155" frameY="0" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="normal0010" x="1760" y="2173" width="982" height="1076" frameX="-155" frameY="-11" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="normal0011" x="0" y="1087" width="979" height="1086" frameX="-155" frameY="-1" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="normal0012" x="0" y="3256" width="1093" height="1071" frameX="-155" frameY="-16" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="normal0013" x="3364" y="0" width="1110" height="1075" frameX="-155" frameY="-12" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="erratic0000" x="3364" y="1075" width="1097" height="1075" frameX="-155" frameY="-12" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="erratic0001" x="3364" y="2150" width="911" height="1072" frameX="-155" frameY="-15" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="erratic0002" x="2624" y="0" width="740" height="1083" frameX="-155" frameY="-4" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="erratic0003" x="0" y="2173" width="792" height="1083" frameX="-155" frameY="-4" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="erratic0004" x="1939" y="3256" width="989" height="1069" frameX="-155" frameY="-18" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="erratic0005" x="4474" y="1062" width="935" height="1056" frameX="-155" frameY="-31" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="erratic0006" x="4474" y="2118" width="919" height="1056" frameX="-155" frameY="-31" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="erratic0007" x="1089" y="4327" width="1053" height="1016" frameX="-155" frameY="-71" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="erratic0008" x="0" y="4327" width="1089" height="1023" frameX="-155" frameY="-64" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="erratic0009" x="4474" y="0" width="1097" height="1062" frameX="-155" frameY="-25" frameWidth="1280" frameHeight="1280" />
+</TextureAtlas>

@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="portrait_coma.png">
+<SubTexture name="idle0000" x="0" y="0" width="855" height="849" frameX="-169" frameY="-431" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="hurt0000" x="855" y="0" width="883" height="844" frameX="-162" frameY="-436" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="dead0000" x="0" y="849" width="883" height="844" frameX="-162" frameY="-436" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="smirk0000" x="1738" y="0" width="1087" height="832" frameX="-35" frameY="-448" frameWidth="1280" frameHeight="1280" />
+</TextureAtlas>

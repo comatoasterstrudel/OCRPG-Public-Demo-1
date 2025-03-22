@@ -1,0 +1,4 @@
+googly:Battle against Googly (Enemy)
+coma:Battle against Coma (Boss)
+war:Battle against Warpath Googly (Enemy)
+inner:Battle against 1nner (Boss)

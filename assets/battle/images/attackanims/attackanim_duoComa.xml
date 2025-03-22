@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="attackanim_duoComa.png">
+<SubTexture name="idle0000" x="494" y="515" width="42" height="49" frameX="-390" frameY="-402" frameWidth="768" frameHeight="768" />
+<SubTexture name="idle0001" x="422" y="515" width="72" height="76" frameX="-375" frameY="-382" frameWidth="768" frameHeight="768" />
+<SubTexture name="idle0002" x="320" y="515" width="102" height="106" frameX="-364" frameY="-354" frameWidth="768" frameHeight="768" />
+<SubTexture name="idle0003" x="170" y="515" width="150" height="140" frameX="-350" frameY="-331" frameWidth="768" frameHeight="768" />
+<SubTexture name="idle0004" x="0" y="515" width="170" height="174" frameX="-331" frameY="-313" frameWidth="768" frameHeight="768" />
+<SubTexture name="idle0005" x="529" y="247" width="236" height="220" frameX="-296" frameY="-267" frameWidth="768" frameHeight="768" />
+<SubTexture name="idle0006" x="529" y="0" width="275" height="247" frameX="-279" frameY="-240" frameWidth="768" frameHeight="768" />
+<SubTexture name="idle0007" x="0" y="0" width="255" height="258" frameX="-287" frameY="-233" frameWidth="768" frameHeight="768" />
+<SubTexture name="idle0008" x="256" y="258" width="261" height="251" frameX="-286" frameY="-239" frameWidth="768" frameHeight="768" />
+<SubTexture name="idle0009" x="255" y="0" width="274" height="258" frameX="-282" frameY="-235" frameWidth="768" frameHeight="768" />
+<SubTexture name="idle0010" x="0" y="258" width="256" height="257" frameX="-291" frameY="-235" frameWidth="768" frameHeight="768" />
+</TextureAtlas>

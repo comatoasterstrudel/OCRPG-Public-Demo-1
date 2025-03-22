@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="attackanim_duoLuigi.png">
+<SubTexture name="idle0000" x="0" y="0" width="804" height="912" frameX="-198" frameY="-145" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="hurt0000" x="804" y="0" width="935" height="737" frameX="-149" frameY="-290" frameWidth="1280" frameHeight="1280" />
+</TextureAtlas>
