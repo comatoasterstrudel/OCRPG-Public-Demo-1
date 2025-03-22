@@ -1,0 +1,7 @@
+Coma's Gameshow!:0.03:Coma:Coma:comagameshow_neutral:
+I will give you a question, and four options will appear.:0.03:Coma:Coma:comagameshow_neutral:
+Depending on the position of the answer you want to select, press {LEFT}, {RIGHT}, {UP} or {DOWN} to select it!:0.02:Coma:Coma:comagameshow_neutral:
+It's easy, really. You'll see!:0.03:Coma:Coma:comagameshow_neutral:
+Also you'll be timed, so be careful.:0.03:Coma:Coma:comagameshow_neutral:
+Ready?:0.03:Coma:Coma:comagameshow_neutral:
+Here we go!:0.03:Coma:Coma:comagameshow_neutral:

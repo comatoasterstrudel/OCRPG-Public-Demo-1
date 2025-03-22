@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project xmlns="http://lime.software/project/1.0.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://lime.software/project/1.0.2 http://lime.software/xsd/project-1.0.2.xsd">	
+
+	<app title="OCRPG" file="OCRPG" main="Main" version="0.0.0" company="happycampers" package = "com.happycamper.ocrpg"/>
+
+	<app preloader="flixel.system.FlxPreloader" />
+
+	<set name="SWF_VERSION" value="11.8" />
+	
+	<window width="1280" height="720" fps="120" background="#000000" hardware="true" vsync="false" />
+
+	<window orientation="landscape" fullscreen="false" resizable="true" />
+
+	<set name="BUILD_DIR" value="export/debug" if="debug" />
+	<set name="BUILD_DIR" value="export/release" unless="debug" />
+
+	<source path="source" />
+	<assets path="assets" />
+
+	<assets path='include/CHANGELOG.txt' rename='imp_CHANGELOG.txt' />
+	<assets path='include/README.txt' rename='imp_README.txt' />
+
+	<assets path='moddingsupport' rename='modding' embed='false'/>
+
+	<haxelib name="flixel" />
+	<haxelib name="flixel-addons" />
+	<haxelib name="discord_rpc"/> 
+
+	<haxedef name="FLX_NO_TOUCH"/>
+	<haxedef name="FLX_NO_DEBUG" unless="debug" />
+	<haxedef name="NAPE_RELEASE_BUILD" unless="debug" />
+	<haxedef name="FLX_NO_FOCUS_LOST_SCREEN" />
+
+	<icon path="assets/global/images/icons/iconOG.png" />
+	<icon path="assets/global/images/icons/icon120.png" size='120'/>
+	<icon path="assets/global/images/icons/icon60.png" size='60'/>
+	<icon path="assets/global/images/icons/icon32.png" size='32'/>
+	<icon path="assets/global/images/icons/icon16.png" size='16'/>
+
+	<library name="battle"        preload="false" />
+	<library name="dialogue"      preload="false" />
+	<library name="global"        preload="true" />
+	<library name="menu"       	  preload="false" />
+	<library name="misc"          preload="false" />
+</project>

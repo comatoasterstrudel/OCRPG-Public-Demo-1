@@ -1,0 +1,4 @@
+coma:95:Hardened Bash:Moral Support:Purple Aura:Rally:false:FFC5EF:
+outer:55:Spin:Briefcase:Disappearing Act:Greater Good:false:FFA66B:
+paragon:80:Nano-Modify:Trained Focus:Basilisk Venom:Nilrok Shock:false:55729E:
+luigi:85:Pizza Wheel:Bad Pizza:Unscrew:Prize Ball:true:07FF03:
